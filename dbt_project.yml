@@ -39,3 +39,7 @@ models:
   taxi_rides_nyc:
     # Applies to all files under models/example/
 
+
+vars:
+  payment_type_values: [1, 2, 3, 4, 5, 6]
+
